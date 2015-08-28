@@ -5,7 +5,7 @@
 #et non refermé, virgule manquante etc.) sont présentes dans le script...
 
 #import du fichier 
-d <- read.table("/home/laurent/Bureau/COURS/2015_ROUEN/data/seance1_4/eurosex.txt")
+d <- read.table("eurosex.txt")
 
 #examen du fichier
 str(d)
@@ -146,7 +146,7 @@ boxplot(residuals(aov2) ~ d$E,
 rm(list = ls())
 
 library(ade4)
-d <- read.table("/home/laurent/Bureau/COURS/2015_ROUEN/data/seance1_4/eurosex.txt")
+d <- read.table("eurosex.txt")
 rownames(d) <- as.character(d$COUNTRYID)
 
 #se débarasser des valeurs manquantes
