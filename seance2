@@ -7,8 +7,8 @@
 
 #manipulation de tableaux
 rm(list = ls())
-insee <- read.table("/home/laurent/Bureau/COURS/2015_ROUEN/data/seance1_4/insee76.txt")
-vote <- read.table("/home/laurent/Bureau/COURS/2015_ROUEN/data/seance1_4/data76.txt")
+insee <- read.table("insee76.txt")
+vote <- read.table("data76.txt")
 
 #Ex. : sélectionner les 10 premières colonnes et les lignes 1 à 100 du tableau insee
 #Ex. : sélectionner les 10 premières colonnes et les lignes 50 à 150 du tableau data
