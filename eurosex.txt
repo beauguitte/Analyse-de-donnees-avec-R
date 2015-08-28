@@ -1,0 +1,23 @@
+"COUNTRYID" "COUNTRYNAME" "THREEBED" "ONENIGHT" "WISHMORE" "FREQYEAR" "VIBRATOR" "FIRSTSEX"
+"1" "AT" "Austria" 18 56 38 105 33 16.5
+"2" "BE" "Belgium" 13 40 38 106 24 17.2
+"3" "BG" "Bulgaria" 16 54 33 127 10 16.9
+"4" "DK" "Denmark" 16 63 48 98 29 16.1
+"5" "IE" "Ireland" 17 62 40 97 30 17.3
+"6" "CZ" "Czech Republic" 20 31 36 120 29 17.2
+"7" "FI" "Finland" 19 64 45 102 35 16.6
+"8" "FR" "France" 15 42 36 120 14 17.2
+"9" "DE" "Germany" 12 36 36 104 20 15.9
+"10" "GR" "Greece" 17 54 35 138 13 17.5
+"11" "HR" "Croatia" 12 50 33 134 17 17.3
+"12" "IT" "Italy" 16 28 35 106 13 18.1
+"13" "SK" "Slovakia" 11 37 NA 106 17 17.8
+"14" "NL" "Netherlands" 14 40 37 115 29 16.6
+"15" "NO" "Norway" 23 70 53 98 44 16.5
+"16" "PL" "Poland" 10 35 37 115 11 17.7
+"17" "PT" "Portugal" 12 37 19 108 10 16.9
+"18" "ES" "Spain" 8 38 29 105 14 17.5
+"19" "SE" "Sweden" 20 64 52 92 38 16.1
+"20" "CH" "Switzerland" 17 52 38 104 30 17.3
+"21" "GB" "United Kingdom" 17 52 37 118 44 16.6
+"22" "RS" "Serbia et Montenegro" 13 53 27 NA 9 17.6
