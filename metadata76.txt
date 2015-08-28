@@ -1,0 +1,75 @@
+BVCOM	Code du bureau de vote ou de la commune
+POP 	Population totale
+POP0017	Population 00-17 ans
+POP1824	Population 18-24 ans
+POP2539	Population 25-39 ans
+POP4054	Population 40-54 ans
+POP5564	Population 55-64 ans
+POP6579	Population 65-79 ans
+POP80P	Population 80 ans et plus
+POP_FR	Population nationalité française
+POP_ETR	Population nationalité étrangère
+POP1564	Population 15-64 ans
+CHOM1564	Chômeurs 15-64 ans en 2007
+INACT1564	Inactifs 15-64 ans en 2007
+ETUD1564	Elèves, étudiants, stagiaires non rémunérés en 2007
+RETR1564	Retraités, préretraités en 2007
+CS1	Actifs 15-64 ans Agriculteurs exploitants en 2007
+CS2	Actifs 15-64 ans Artisans, Comm., Chefs entr. En 2007
+CS3	Actifs 15-64 ans Cadres, Prof. intel. sup. En 2007
+CS4	Actifs 15-64 ans Prof. intermédiaires en 2007
+CS5	Actifs 15-64 ans Employés en 2007
+CS6	Actifs 15-64 ans Ouvriers en 2007
+CDI	Salariés 15 ans ou plus Fonct publ, CDI en 2007 
+CDD	Salariés 15 ans ou plus CDD en 2007 
+INTERIM	Salariés 15 ans ou plus Intérim en 2007 
+EMPAID	Salariés 15 ans ou plus Emplois aidés en 2007 
+APPR	Salariés 15 ans ou plus Apprentissage - Stage en 2007 
+INDEP	Non salariés 15 ans ou plus Indépendants en 2007 
+EMPLOY	Non salariés 15 ans ou plus Employeurs en 2007 
+AIDFAM	Non salariés 15 ou plus Aidants familiaux
+NDIPL0	Pop 15 ans ou plus non scol. Sans diplôme en 2007 
+CEP	Pop 15 ans ou plus non scol. CEP en 2007
+BEPC	Pop 15 ans ou plus non scol. BEPC, brevet collèges en 2007 
+CAPBEP	Pop 15 ans ou plus non scol. CAP-BEP en 2007
+BAC	Pop 15 ans ou plus non scol. BAC-BP en 2007
+BACP2	Pop 15 ans ou plus non scol. BAC+2 en 2007
+SUP	Pop 15 ans ou plus non scol. Sup. BAC+2 en 2007
+ANEM0002	Ménages emménagés moins 2 ans en 2007
+ANEM0204	Ménages emménagés entre 2-4 ans en 2007 
+ANEM0509	Ménages emménagés entre 5-9 ans en 2007
+ANEM10P	Ménages emménagés depuis 10 ans ou plus en 2007
+PROPRIO	Pers Rés princ occupées Propriétaires en 2007 
+LOCNONHLM	Pers Rés princ occupées Locataires non HLMen 2007 
+LOCHLM	Pers Rés princ HLM louées vides en 2007 
+GRATUIT	Pers Rés princ occupées gratuit en 2007 
+
+bvcom	code bureau de vote ou communes
+DATA07	0 : données réelles ; 1 : données estimées. La procédure utilisée est détaillée bureau par bureau dans la feuille estim.
+INS07T1	Nombre d'inscrits, premier tour
+ABS07T1	Nombre d'abstentions, premier tour
+VOT07T1	Nombre de votants, premier tour
+BLC07T1	Nombre de bulletins blancs et nuls, premier tour
+EXP07T1	Suffrages exprimés, premier tour
+BAY07T1	Nombre de voix F. Bayrou
+BES07T1	Nombre de voix O. Besancenot
+BOV07T1	Nombre de voix J. Bové
+BUF07T1	Nombre de voix M.G Buffet
+DEV07T1	Nombre de voix P. de Villiers
+LAG07T1	Nombre de voix A. Laguiller
+LEP07T1	Nombre de voix J.M. Le Pen
+NIH07T1	Nombre de voix F. Nihous
+ROY07T1	Nombre de voix S. Royal, premier tour
+SAR07T1	Nombre de voix N. Sarkozy, premier tour
+SCH07T1	Nombre de voix G. Schivardi
+VOY07T1	Nombre de voix D. Voynet
+INS07T2	Nombre d'inscrits, second tour
+ABS07T2	Nombre d'abstentions, second tour
+VOT07T2	Nombre de votants, second tour
+BLC07T2	Nombre de bulletins blancs et nuls, second tour
+EXP07T2	Suffrages exprimés, second tour
+ROY07T2	Nombre de voix S. Royal, second tour
+SAR07T2	Nombre de voix N. Sarkozy, second tour
+	
+Source : Ministère de l'Intérieur, excepté DATA07, Cartelec (2012)	
+
